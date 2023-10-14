@@ -1,0 +1,463 @@
+/*Big Size Screens*/
+@media (max-width: 1200px)
+{
+	.services
+	{
+		padding-right:500px;
+	}
+	
+	.header .btnStyle
+	{
+		margin-right:15px;
+	}
+	
+	.header .menuHeader li a
+	{
+		padding:0 10px;
+		font-size:14px;
+	}
+	.slider .left .imgSlider
+	{
+		max-width:500px;
+	}
+	
+	.servicesPage .servicesHead .container
+	{
+		padding-bottom:120px;
+	}
+	
+	.servicesPage .servicesHead .title
+	{
+		margin-right:390px;
+	}
+	
+}
+
+@media (max-width: 1576px)
+{
+	.aboutUs .bgTitle
+	{
+		max-width:100%;
+		right:0;
+	}
+}
+
+
+/* small Screens & tablets & Smart phone */
+@media (max-width: 991px) 
+{
+	
+	.openMenu
+	{
+		display:block;
+	}
+	
+	.header .menuHeader,
+	.header .btnStyle,
+	.header .lang
+	{
+		display:none;
+	}
+	
+	.header .logo
+	{
+		margin-top:0;
+		padding:15px 0;
+	}
+	
+	.slider
+	{
+		padding:130px 0 90px;
+	}
+	
+	.slider .right,
+	.slider .left,
+	.slider .right .btnStyle
+	{
+		float:none;
+		text-align: center;	
+		margin-top:0;
+	}
+	
+	.slider .right .titleSlider
+	{
+		margin-bottom:30px;
+	}
+	
+	.slider .right .btnStyle
+	{
+		
+		margin:0 auto 40px;
+	}
+	
+	.services
+	{
+		padding-right:50px;
+		padding-left:20px;
+	}
+	
+	.vision
+	{
+		border-top-right-radius: 0;
+		margin-top:0;
+	}
+	
+	.services .bgServices,
+	.vision .bgVision
+	{
+		display:none;
+	}
+	
+	.aboutUs
+	{
+		padding:70px 0;
+	}
+	
+	.aboutUs .title
+	{
+		font-size:25px;
+		padding:0 0 30px;
+		margin-bottom:35px;
+		line-height:40px;
+	}
+	
+	.joinStyle .customContainer
+	{
+		text-align: center;
+	}
+	
+	.services .title
+	{
+		font-size:27px;
+		padding-bottom:25px;
+		margin-bottom:0;
+	}
+	
+	.aboutUs .desc,
+	.services .desc,
+	.vision .itemVition .desc,
+	.joinStyle .customContainer .desc,
+	.footer a,
+	.footer .phone,
+	.footer .desc
+	{
+		font-size:17px;
+		max-width:none
+	}
+	
+	.joinStyle .customContainer .title
+	{
+		padding-bottom:20px;
+		font-size:23px;
+		line-height:40px;
+		margin-bottom:0;
+	}
+	
+	.joinStyle .customContainer .desc
+	{
+		line-height:40px;
+	}
+	
+	.features
+	{
+		padding-bottom:0px;
+	}
+	
+	.vision
+	{
+		padding-left:0;
+		padding-right:0;
+	}
+	
+	.vision .itemVition
+	{
+		text-align: center;
+		
+	}
+	
+	.vision .itemVition .icon
+	{
+		display:inline-block
+	}
+	
+	.joinStyle .customContainer
+	{
+		padding:35px;
+	}
+	
+	.footer .menuFooter
+	{
+		margin-bottom:30px;
+	}
+	
+	.footer .titleFooter
+	{
+		margin-bottom:40px;
+	}
+	
+	.footer .titleFooter
+	{
+		font-size:25px;
+		line-height:40px;
+	}
+	
+	.footer .footerDown
+	{
+		display:block;
+		text-align: center;
+		margin-top:30px;
+	}
+	
+	.footer .footerDown .whats
+	{
+		margin-left:0;
+		display:block;
+		margin:0 auto 20px;
+	}
+	
+	.footer .footerDown .copyrights
+	{
+		display:block;
+		margin-bottom:20px;
+	}
+	
+	.footer .footerDown .listDown
+	{
+		display:inline-block;
+		margin-bottom:20px;
+	}
+	
+	.features .bgFeatures
+	{
+		margin-bottom:30px;
+	    max-width: 1000px;
+    	margin-right: -300px;
+	}
+	
+	.features .row .col-md-4:not(:nth-of-type(3n)) .item:after
+	{
+		display:none;
+	}
+	
+	.tracking
+	{
+		text-align: center
+	}
+	
+	.tracking .customContainer
+	{
+		padding-right:15px;
+		padding-left:15px;
+	}
+	
+	.tracking .formTracking input
+	{
+		margin-bottom:20px;
+		margin-left:0;
+	}
+	
+	.tracking .btnStyle
+	{
+		margin:0 auto 20px;
+	}
+	
+	.tracking .subTitle,
+	.tracking .title
+	{
+		font-size:25px;
+	}
+	
+	.breadHead
+	{
+		padding:180px 0 90px;
+	}
+	
+	.servicesPage .servicesHead .container
+	{
+		padding:150px 15px 0;
+		text-align: right;
+	}
+	
+	.servicesPage .servicesHead .title
+	{
+		margin-right:0;
+		margin-bottom:25px;
+	}
+	
+	.servicesPage .servicesHead .bg1,
+	.servicesPage .servicesHead .bg2
+	{
+		display:none;
+	}
+	
+	.servicesPage .servicesHead .title
+	{
+		font-size:35px;
+	}
+	
+	.trackingResult .head
+	{
+		text-align: center
+	}
+	
+	.complaints .complaintsForm .titleForm,
+	.complaints .title, .complaints .subTitle
+	{
+		font-size:30px;
+	}
+		
+	.complaints .col-md-7,
+	.complaints .col-md-5
+	{
+		float:none;
+	}
+	
+	.complaints .col-md-5
+	{
+		text-align: center
+	}
+	
+	.contactUs
+	{
+		padding:100px 0 170px;
+	}
+	
+	.contactUs .title
+	{
+		font-size:35px;
+		margin-bottom:30px;
+	}
+	
+	.contactUs .desc
+	{
+		font-size:16px;
+		line-height:35px;
+	}
+	
+	.info
+	{
+		padding:20px 0 110px;
+	}
+	
+	.info .title
+	{
+		text-align: center;
+		width:100%;
+		max-width:100%;
+		margin-bottom:30px;
+		font-size:35px;
+	}
+	
+	.info .infoList
+	{
+		float:none;
+		text-align: center;
+	}
+	
+	.info .infoList li a
+	{
+		font-size:16px;
+	}
+	
+	.info .infoList li a img
+	{
+		max-width:45px;
+		margin:0 auto 30px;
+	}
+	
+	.info .infoList li:first-of-type
+	{
+		margin-left:0;
+		margin-bottom:40px;
+	}
+	
+	.info .infoList li
+	{
+		width:100%;
+	}
+	
+	.signUp
+	{
+		padding-left:15px;
+		padding-right:15px;
+		padding-top:130px;
+	}
+	
+	.signUp .bg2,
+	.signUp .bg1
+	{
+		display:none
+	}
+	
+	.signUp .titleStyle
+	{
+		font-size:35px;
+	}
+	
+	.signUp .customContainer .formSing .title
+	{
+		font-size:25px;
+	}
+	
+	.signUp .customContainer .formSing .subTitle
+	{
+		font-size:23px;
+	}
+	
+	.signUp .customContainer
+	{
+		padding:30px 10px 90px;
+	}
+	
+	.signUp .customContainer .formSing .footerSign
+	{
+		margin-top:0;
+	}
+	
+}
+
+/* Small Screens */
+@media (min-width: 768px) and (max-width: 991px) 
+{
+	
+	
+}
+
+/* Mobile & Tablets */
+@media (max-width: 767px) 
+{
+	.slider .right .titleSlider
+	{
+		font-size:35px;
+		line-height:50px;
+	}
+	
+}
+
+/* Tablets */
+@media (min-width:480px) and (max-width: 767px)
+{
+
+}
+
+/* Mobile */
+@media (max-width: 479px) 
+{
+	.joinStyle .customContainer
+	{
+		padding:30px 15px;
+	}
+	
+	.features .bgFeatures
+	{
+    	margin-right: -379px;
+	}
+	
+	.tracking .copyrights,
+	.tracking .formTracking input,
+	.tracking .formTracking button
+	{
+		font-size:15px;
+	}
+	
+}
